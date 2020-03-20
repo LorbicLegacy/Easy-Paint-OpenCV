@@ -21,3 +21,8 @@ Set shapes:
 > 2 -> Line  
 > 3 -> Free Draw  
 
+
+Example images :
+ 
+![alt text](https://github.com/vikaspatelp83/Easy-Paint-OpenCV/blob/master/picture.png "Example Image")
+
