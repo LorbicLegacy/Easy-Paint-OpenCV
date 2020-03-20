@@ -8,6 +8,8 @@ Simple Paint Application Built in OpenCV
 * Close the window  
 * A new window "image" will open  
 * press **ctrl + s** and enter a name to save your annotated image.  
+* press **ESC** to exit
+
 
 
 # Usages
