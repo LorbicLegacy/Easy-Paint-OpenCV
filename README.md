@@ -14,8 +14,8 @@ Simple Paint Application Built in OpenCV
 
 Set  Red(R) , Blue(B), Green(G)  value using color sliders.  
 Set shapes: 
-> 0 -> Rectangle
-> 1 -> Ellipse
-> 2 -> Line
-> 3 -> Free Draw
+> 0 -> Rectangle  
+> 1 -> Ellipse  
+> 2 -> Line  
+> 3 -> Free Draw  
 
