@@ -1,6 +1,10 @@
 # Easy-Paint-OpenCV
 Simple Paint Application Built in OpenCV
 
+Prerequisite: 
+ OpenCV >= 3.x
+ Python >= 3.x
+
 * Put your image as named "background.png"  
 * Run the code   
 > python paint.py  
